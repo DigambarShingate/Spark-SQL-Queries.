@@ -1,2 +1,3 @@
 # Spark-SQL-Queries.
-spark sql queries using Zeppelin Notebook
+test1.json----spark sql queries using Zeppelin Notebook
+MavenProject.zip(Java Coding Assignment)
